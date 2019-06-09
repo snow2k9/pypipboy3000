@@ -1,0 +1,25 @@
+{
+  "debug": true,
+  "fullscreen": false,
+
+  "color": [0, 255, 0],
+  "box_color": [63, 101, 60],
+  "inactive_color": [63, 101, 60],
+  "font": "res/fonts/monofonto.ttf",
+  "background": [0, 0, 0],
+
+  "player": {
+    "info": "The Default Player object. This contains all info about the player. The base Values can be edited.",
+    "name": "Mr. Vault Survivor",
+    "level": 2,
+    "level_progress": 26,
+    "max_weight": 100,
+    "weight": 0,
+    "max_ap": 100,
+    "ap": 0,
+    "max_hp": 190,
+    "hp": 0,
+    "rad": 0,
+    "money": 1357
+  }
+}
